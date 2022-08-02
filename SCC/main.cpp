@@ -4,7 +4,7 @@
 
 /*
  * language test. hangul is broken.
- *
+ * init version 02
  */
 int main(int argc, char *argv[])
 {
